@@ -1,39 +1,39 @@
 =======
-Testnet
+Pagsusuri nang net
 =======
 
 .. toctree::
    :maxdepth: 1
-   :caption: Guides
+   :caption: Mga gabay
 
-   guides/get-the-app
-   guides/get-started
-   guides/accounts-transactions
-   guides/explore-more
-   guides/run-node
-   guides/become-baker
-
-.. toctree::
-   :maxdepth: 1
-   :caption: References
-
-   references/concordium-client
-   references/id-accounts
-   references/manage-accounts
-   references/transactions
-   references/query-node
+   mga gabay/kunin-ang-app
+   mga gabay/magsimula
+   mga gabay/mga-akawnts-transaksyon
+   mga gabay/eeksplor-at iba pa
+   mga gabay/mag-run-nang node
+   mga gabay/maging-baker
 
 .. toctree::
    :maxdepth: 1
-   :caption: See Also
+   :caption: Referensiya
 
-   see-also/downloads
-   see-also/troubleshooting
-   see-also/glossary
-   see-also/release-notes
-   see-also/third-party-licenses
+   referensiya/konkordyum-client
+   referensiya/id-akawnts
+   referensiya/imanage-akawnts
+   referensiya/mga-transaksiyon
+   referensiya/mga-query-node
 
-Support & Feedback
+.. toctree::
+   :maxdepth: 1
+   :caption: Tingnan din
+
+   tingnan din/mga-downloads
+   tingnan din/mga-troubleshoot
+   tingnan din/mga-glossaryo
+   tingnan din/mga-release-notes
+   tingnan din/mga-third-party-licenses
+
+Suporta at Puna
 ==================
 
 If you run into any issues or have suggestions, post your question or feedback
